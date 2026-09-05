@@ -14,18 +14,6 @@ This repository contains my learning projects in:
 
 ## Projects
 
-### Python
-Coming soon...
-
-### SQL
-Coming soon...
-
-### IBM Data Science Course
-Coming soon...
-
-### Kaggle Projects
-Coming soon...
-
 ### [SpaceX Falcon 9 Project](./SpaceX-Falcon-9-Project)
 
 Applied Data Science Capstone project using SpaceX launch data.
