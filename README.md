@@ -25,5 +25,6 @@ Coming soon...
 
 ### Kaggle Projects
 Coming soon...
-### SpaceX Falcon 9 Project
+### [SpaceX Falcon 9 Project](./SpaceX-Falcon-9-Project)
+
 Applied Data Science Capstone project using SpaceX launch data.
